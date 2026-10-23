@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "original_chunks_reused": 96,
+  "probe_chunks": 20,
+  "remaining_chunks": 634,
+  "splitter_chunks": 750,
+  "stored_chunks": 750,
+  "text_pages": 90,
+  "stored_text_pages": 90,
+  "vector_dimensions": [
+    3072
+  ],
+  "consistency_check_cosine": 1.0,
+  "consistency_check_max_abs_difference": 6.1603546153143895e-09,
+  "repeat_ingestion_new_chunks": 0,
+  "repeat_ingestion_skipped_chunks": 750,
+  "embedding_requests": 83,
+  "http_429s": 0,
+  "retries": 0,
+  "estimated_tokens": 152333.5,
+  "elapsed_seconds_sum_of_ingestion_runs": 738.75,
+  "max_rolling_minute_chunks": 56,
+  "max_rolling_minute_estimated_tokens": 13565.5,
+  "model": "gemini-embedding-001",
+  "collection": "history-5d5918a43ac4d0d6253fb3e3402d0a750ceb302d",
+  "runs": [
+    {
+      "status": "run_summary",
+      "run_id": "e77dbad92ba449c19b3e1edf82ffdb90",
+      "requests": 3,
+      "successful_requests": 3,
+      "http_429s": 0,
+      "retries": 0,
+      "estimated_tokens_attempted": 4672.5,
+      "estimated_tokens_successful": 4672.5,
+      "elapsed_seconds": 39.102,
+      "timestamp": "2026-10-23T10:16:23.794842+00:00"
+    },
+    {
+      "status": "run_summary",
+      "run_id": "a604d6a810c24407ab7d6795b2c50602",
+      "requests": 80,
+      "successful_requests": 80,
+      "http_429s": 0,
+      "retries": 0,
+      "estimated_tokens_attempted": 147661.0,
+      "estimated_tokens_successful": 147661.0,
+      "elapsed_seconds": 699.648,
+      "timestamp": "2026-10-23T10:28:16.972529+00:00"
+    }
+  ]
+}
