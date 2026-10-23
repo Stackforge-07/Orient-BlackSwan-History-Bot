@@ -34,3 +34,14 @@ vectors must be preserved.
 Priority 3 Streamlit, Priority 4 browser proof/screenshots, final submission
 answers/README completion and final verification remain unfinished. Nothing has
 been pushed. This WIP is not ready for submission.
+
+## Subsequent local-run update
+
+The generation model was changed locally to the live-verified replacement,
+`gemini-3.8-flash`, and the wrapper client/timeout binding was corrected.
+All five assignment questions passed; a zero-call rerun also passed 5/5 with
+four generation-cache hits and one retrieval bypass. A themed Streamlit app
+is running on 127.0.0.1:8501. A real browser screenshot of the date answer and
+its evidence was saved to screenshots/local-app.png. Twenty unit tests still
+pass. Full 25-case generation accuracy and automated multi-viewport screenshot
+checks are not claimed by this local-run update.

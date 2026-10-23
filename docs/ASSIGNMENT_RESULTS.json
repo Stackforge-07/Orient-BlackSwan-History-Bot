@@ -1,0 +1,983 @@
+[
+  {
+    "question": "On what date were the prices in this catalogue last updated?",
+    "answer": "20-01-2025",
+    "found": true,
+    "page": 2,
+    "printed_page": "",
+    "section": "",
+    "evidence_quote": "Prices updated on 20-01-2025.",
+    "score": 0.6700335114282135,
+    "cached": true,
+    "debug": "",
+    "passages": [
+      {
+        "id": "3e5bb666d99c82b9ac0524cb7fd39e21aa9cf68152e1d4952968e4740cbe0e76",
+        "text": "Orient BlackSwan is one of India’s best known and most respected publishing \nhouses. Incorporated in 1948, the consistent emphasis of our publishing \nprogramme has been on quality. We also selectively reprint and co-publish \noutstanding titles published abroad, for the Indian market. \nOrient BlackSwan is the exclusive distributor for books published by:\nSangam Books\nUniversities Press\nPermanent Black\nSocial Science Press\nAurum Books \n(An imprint of Social Science Press)\nTata Institute of Social Sciences\nEconomic and Political Weekly\nRCS Publishers\nperm\nanent black\nHistory 2025.indd   1History 2025.indd   1 24-01-2025   17:34:2524-01-2025   17:34:25\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "chunk_id": "3e5bb666d99c82b9ac0524cb7fd39e21aa9cf68152e1d4952968e4740cbe0e76",
+          "pdf_label": "ii",
+          "printed_page": "",
+          "section": "",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 2,
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "9370cfa55983a17d946ce7a087340b2a5f17d0b1eec1f93ec93f791e21c8a35c",
+        "text": "Write to mail@orientblackswan.com to receive our monthly mailer Follow us on   @orientblackswan\n \n \nCONTENTS\nHistory ..............................................................................................................1\nAuthor Index ....................................................................................................80\nTitle Index ........................................................................................................83\nOnline catalogue\nFor more information on our books visit our online catalogue  \nat www.orientblackswan.com\nInformation on new books\nYou can write to us at mail@orientblackswan.com for updates on our monthly \narrivals and events; also visit us at www.orientblackswan.com to keep up to \ndate on our newest publications\nInformation on submitting proposals\nVisit us at www.orientblackswan.com/publish \nto submit an online book proposal\nPlace an order\n Email your order to info@orientblackswan.com\nRights",
+        "metadata": {
+          "printed_page": "",
+          "source": "History_2024-25.pdf",
+          "section": "Contents",
+          "pdf_page": 3,
+          "pdf_label": "iii",
+          "extractor": "pypdf",
+          "chunk_id": "9370cfa55983a17d946ce7a087340b2a5f17d0b1eec1f93ec93f791e21c8a35c",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "32bcb616ff5f662d128a6dd5e01fd1cd2dc76eefd550f350a4f3a95e59bf9009",
+        "text": "of His Majesty’s Opponent: Subhas Chandra Bose and \nHistory 2025.indd   7History 2025.indd   7 24-01-2025   17:34:2924-01-2025   17:34:29\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "extractor": "pypdf",
+          "section": "History",
+          "chunk_id": "32bcb616ff5f662d128a6dd5e01fd1cd2dc76eefd550f350a4f3a95e59bf9009",
+          "pdf_page": 10,
+          "printed_page": "7",
+          "pdf_label": "7",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "source": "History_2024-25.pdf"
+        },
+        "score": 0.6318643702155542,
+        "lexical": 0
+      },
+      {
+        "id": "e2e62d5e1c60af8477bafbb685743fa8a4a7b1c1b5c5103e7932b084897acb3e",
+        "text": "Mirchandani, Gurmukh Singh Musafir, Joya Mitra, \nAnil Nauriya, Amena Nazli, Vidya Rao, Ravikant, \nManas Ray, Anwesha Sengupta, Debjani Sengupta, \nFikr Taunsvi, Kajal Tehri, Sameer Thomas, Meera \nSikri, Jhumur Pandey, Selina Hossain, Sukrita Paul \nKumar, Tarun K. Saint, Asghar Wajahat\n2019 978-93-5287-620-4 `1095 396 pp Paperback\nPleasures at Your   \n e-book  \nSide, The\nPapers from the Wanaparthy Samasthan, \n1832–1911\nEdited by Benjamin B. Cohen, Professor and \nChair, Department of History, University of Utah, \nUSA\nThis collection of letters and papers from \nWanaparthy—covering the reigns of the last four \nNizams—brings to light the relationship between \nthe urban center of Hyderabad and the peripheral \ncountry capital of Wanaparthy. The samasthan was \nunique in that it maintained almost complete \nHistory 2025.indd   21History 2025.indd   21 24-01-2025   17:34:3724-01-2025   17:34:37\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "e2e62d5e1c60af8477bafbb685743fa8a4a7b1c1b5c5103e7932b084897acb3e",
+          "printed_page": "21",
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf",
+          "pdf_page": 24,
+          "section": "History",
+          "pdf_label": "21"
+        },
+        "score": 0.0,
+        "lexical": 3
+      },
+      {
+        "id": "bc04a1f282be0344358a2ff8b76f29f58e1c135560435bfb69b472665822c1ad",
+        "text": "27. She Was No Longer Believable 28.  Divine \nMother and Prince Charming 29. She Quoted\n \nSubversive Poetry 30.  Who Knows the Truth \nHistory 2025.indd   29History 2025.indd   29 24-01-2025   17:34:5124-01-2025   17:34:51\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "extractor": "pypdf",
+          "pdf_label": "29",
+          "section": "History",
+          "pdf_page": 32,
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "source": "History_2024-25.pdf",
+          "printed_page": "29",
+          "chunk_id": "bc04a1f282be0344358a2ff8b76f29f58e1c135560435bfb69b472665822c1ad"
+        },
+        "score": 0.6379930564341457,
+        "lexical": 0
+      },
+      {
+        "id": "733a770473293059b62637843f7d964b4479402a33c37e395b6b4b8268af69ff",
+        "text": "contributors include leading scholars in their \nHistory 2025.indd   33History 2025.indd   33 24-01-2025   17:34:5924-01-2025   17:34:59\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "chunk_id": "733a770473293059b62637843f7d964b4479402a33c37e395b6b4b8268af69ff",
+          "extractor": "pypdf",
+          "section": "History",
+          "printed_page": "33",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 36,
+          "pdf_label": "33"
+        },
+        "score": 0.6263991685056661,
+        "lexical": 0
+      },
+      {
+        "id": "608ed88789b84eca78c199829898dcbf13d64877af7e715933c09843f1bf3d37",
+        "text": "in a Category; Part IV: Actors, Moments. \nHistories\nHistory 2025.indd   45History 2025.indd   45 24-01-2025   17:35:1624-01-2025   17:35:16\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_label": "45",
+          "chunk_id": "608ed88789b84eca78c199829898dcbf13d64877af7e715933c09843f1bf3d37",
+          "section": "History",
+          "pdf_page": 48,
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "source": "History_2024-25.pdf",
+          "printed_page": "45",
+          "extractor": "pypdf"
+        },
+        "score": 0.6422776571488905,
+        "lexical": 0
+      },
+      {
+        "id": "f36687e68fddaa0d93b5761655f261c2a16a712a5e665ce1de32862a6021be4a",
+        "text": "knowledge and feeling. India \nWins Freedom has at last won \nits own freedom. The full \ntext of this autobiographical \nnarrative was confined, \nunder seal, in the National \nLibrary, Calcutta, and in the \nNational Archives, New \nDelhi, for thirty years. What we now have is the \ncomplete text, released in September 1988. Not \nonly have all the words and phrases of the original \nbeen reproduced in this edition, the original tone \nand temper have been fully restored. \nContents: 1. Congress in Office 2. War in Europe \n3. I Become a Congress President 4. A Chinese \nHistory 2025.indd   47History 2025.indd   47 24-01-2025   17:35:1724-01-2025   17:35:17\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "chunk_id": "f36687e68fddaa0d93b5761655f261c2a16a712a5e665ce1de32862a6021be4a",
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf",
+          "section": "History",
+          "pdf_label": "47",
+          "printed_page": "47",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 50
+        },
+        "score": 0.0,
+        "lexical": 3
+      },
+      {
+        "id": "39fa45357cca8c0dd52027ca88e9b796c92801433b391a2be418d089309fe5e1",
+        "text": "E-ISBN 978-81-2505-239-5\nHistory 2025.indd   51History 2025.indd   51 24-01-2025   17:35:2024-01-2025   17:35:20\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_page": 54,
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "section": "History",
+          "printed_page": "51",
+          "chunk_id": "39fa45357cca8c0dd52027ca88e9b796c92801433b391a2be418d089309fe5e1",
+          "source": "History_2024-25.pdf",
+          "pdf_label": "51",
+          "extractor": "pypdf"
+        },
+        "score": 0.6267681586896623,
+        "lexical": 0
+      },
+      {
+        "id": "26c06d1ee91ce7557b245aef631c33907b7bce20208300c4d88666659c87e99c",
+        "text": "history, or a narrative \nhistory. Its purpose was to \nHistory 2025.indd   54History 2025.indd   54 24-01-2025   17:35:2224-01-2025   17:35:22\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "extractor": "pypdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "26c06d1ee91ce7557b245aef631c33907b7bce20208300c4d88666659c87e99c",
+          "section": "History",
+          "pdf_page": 57,
+          "source": "History_2024-25.pdf",
+          "pdf_label": "54",
+          "printed_page": "54"
+        },
+        "score": 0.6342629044678232,
+        "lexical": 0
+      },
+      {
+        "id": "ce416e9a3b41328f0ee2e321c3622e7ea02a1eac8a0335ca85ce34a1dde5e645",
+        "text": "Zeldin, Theodore   65\nZutshi, Chitralekha   70\nHistory 2025.indd   82History 2025.indd   82 24-01-2025   17:35:4224-01-2025   17:35:42\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "extractor": "pypdf",
+          "chunk_id": "ce416e9a3b41328f0ee2e321c3622e7ea02a1eac8a0335ca85ce34a1dde5e645",
+          "pdf_page": 85,
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "printed_page": "",
+          "pdf_label": "82",
+          "section": "Author Index"
+        },
+        "score": 0.642481655981371,
+        "lexical": 0
+      },
+      {
+        "id": "64235be7746e18482763f4c01ef5c511d46498ee4e0b650b84f1320c3b096c36",
+        "text": "History 2025.indd   88History 2025.indd   88 24-01-2025   17:35:4324-01-2025   17:35:43\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "chunk_id": "64235be7746e18482763f4c01ef5c511d46498ee4e0b650b84f1320c3b096c36",
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf",
+          "section": "",
+          "printed_page": "",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 91,
+          "pdf_label": "88"
+        },
+        "score": 0.6700335114282135,
+        "lexical": 0
+      }
+    ],
+    "expected": "20-01-2025",
+    "expected_page": 2,
+    "matches": true
+  },
+  {
+    "question": "In which year was the publisher (Orient BlackSwan) incorporated?",
+    "answer": "1948",
+    "found": true,
+    "page": 2,
+    "printed_page": "",
+    "section": "",
+    "evidence_quote": "Orient BlackSwan is one of India’s best known and most respected publishing \nhouses. Incorporated in 1948",
+    "score": 0.6874441179703987,
+    "cached": true,
+    "debug": "",
+    "passages": [
+      {
+        "id": "3e5bb666d99c82b9ac0524cb7fd39e21aa9cf68152e1d4952968e4740cbe0e76",
+        "text": "Orient BlackSwan is one of India’s best known and most respected publishing \nhouses. Incorporated in 1948, the consistent emphasis of our publishing \nprogramme has been on quality. We also selectively reprint and co-publish \noutstanding titles published abroad, for the Indian market. \nOrient BlackSwan is the exclusive distributor for books published by:\nSangam Books\nUniversities Press\nPermanent Black\nSocial Science Press\nAurum Books \n(An imprint of Social Science Press)\nTata Institute of Social Sciences\nEconomic and Political Weekly\nRCS Publishers\nperm\nanent black\nHistory 2025.indd   1History 2025.indd   1 24-01-2025   17:34:2524-01-2025   17:34:25\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "printed_page": "",
+          "pdf_label": "ii",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 2,
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf",
+          "section": "",
+          "chunk_id": "3e5bb666d99c82b9ac0524cb7fd39e21aa9cf68152e1d4952968e4740cbe0e76"
+        },
+        "score": 0.6874441179703987,
+        "lexical": 3
+      },
+      {
+        "id": "9370cfa55983a17d946ce7a087340b2a5f17d0b1eec1f93ec93f791e21c8a35c",
+        "text": "Write to mail@orientblackswan.com to receive our monthly mailer Follow us on   @orientblackswan\n \n \nCONTENTS\nHistory ..............................................................................................................1\nAuthor Index ....................................................................................................80\nTitle Index ........................................................................................................83\nOnline catalogue\nFor more information on our books visit our online catalogue  \nat www.orientblackswan.com\nInformation on new books\nYou can write to us at mail@orientblackswan.com for updates on our monthly \narrivals and events; also visit us at www.orientblackswan.com to keep up to \ndate on our newest publications\nInformation on submitting proposals\nVisit us at www.orientblackswan.com/publish \nto submit an online book proposal\nPlace an order\n Email your order to info@orientblackswan.com\nRights",
+        "metadata": {
+          "printed_page": "",
+          "extractor": "pypdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_label": "iii",
+          "section": "Contents",
+          "pdf_page": 3,
+          "source": "History_2024-25.pdf",
+          "chunk_id": "9370cfa55983a17d946ce7a087340b2a5f17d0b1eec1f93ec93f791e21c8a35c"
+        },
+        "score": 0.6432450079374192,
+        "lexical": 0
+      },
+      {
+        "id": "c37a1e73345d9e11716b22d8c0ef16fc222949a2ae19006ff7ea7e64c2424b9b",
+        "text": "Visit us at www.orientblackswan.com/publish \nto submit an online book proposal\nPlace an order\n Email your order to info@orientblackswan.com\nRights\nFor rights-related queries, write to rights@orientblackswan.com\nKeep in touch\n  Facebook at www.facebook.com/OrientBlackSwan \n  LinkedIn at www.linkedin.com/company/orientblackswan\nFollow us on\n @orientblackswan\n040256\nHistory 2025.indd   2History 2025.indd   2 27-01-2025   16:56:5327-01-2025   16:56:53\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_label": "iii",
+          "section": "Contents",
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf",
+          "pdf_page": 3,
+          "printed_page": "",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "c37a1e73345d9e11716b22d8c0ef16fc222949a2ae19006ff7ea7e64c2424b9b"
+        },
+        "score": 0.6305829428777087,
+        "lexical": 0
+      },
+      {
+        "id": "1cd999dbd48b98323b7ff0d58a6540c925a8686a65648f6079ef8277ec4ea250",
+        "text": "movement; and the changing political, economic \nand agrarian scene.\nFor the first time, this reprint is accompanied \nby the free Orient BlackSwan Smart App, which \nallows students to access question banks from \nprevious years’ competitive examinations, solve \nmany multiple-choice questions from their phone, \nand also refer to the detailed answer key at the \nend.\nSelected Contents: 1. India and the World \nEurope 2. Northern India: Age of the Three \nEmpires (800–1000) 3. South India: The Chola \nEmpire (900–1200) 4. Economic and Social Life, \nEducation and Religious Beliefs (800–1200) 5. The \nAge of Conflict (Circa 1000–1200) 6. The Delhi \nSultanat—I (Circa 1200–1300) 7. The Delhi \nSultanat—II (Circa 1300–1400) 8. Government, \nand Economic and Social Life under the Delhi \nSultanat 9. The Age of Vijayanagara and the \nBahmanids and the Coming of the Portuguese \n(Circa 1350–1565) 10. Struggle for Empire in \nNorth India—I (Circa 1400–1525) 11. Cultural",
+        "metadata": {
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_label": "16",
+          "pdf_page": 19,
+          "printed_page": "16",
+          "extractor": "pypdf",
+          "chunk_id": "1cd999dbd48b98323b7ff0d58a6540c925a8686a65648f6079ef8277ec4ea250",
+          "source": "History_2024-25.pdf"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "002441fcf7c264373be4c1338542a19d4e2666d3983711374c511496a3e9d4e9",
+        "text": "E-ISBN 978-93-5442-087-0\nHistory of      \n Textbook  \nModern India    \n e-book\nOne of the most eminent historians of modern \nIndian history, Bipan Chandra was Chairman of \nthe National Book Trust. He was also Professor \nEmeritus, Centre for Historical Studies, Jawaharlal \nNehru University, New Delhi, and National \nResearch Professor.\nHistory of Modern India \npresents what is arguably \nthe authoritative overview \nof the historical period \nknown as British India. It \nmoves away from a largely \npolitical narrative to offer \nan explanation of \nconditions in eighteenth-\ncentury India that helped \nthe British East India \nCompany establish its rule, \nimportant insights into the primary aim of colonial \nrule: the economic exploitation of India through \ntrade and investment, and a detailed account of \nthe nationalist movement.\nFor the first time, this reprint is accompanied \nby the free Orient BlackSwan Smart App, which \nallows students to access question banks from",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "printed_page": "16",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "section": "History",
+          "chunk_id": "002441fcf7c264373be4c1338542a19d4e2666d3983711374c511496a3e9d4e9",
+          "extractor": "pypdf",
+          "pdf_label": "16",
+          "pdf_page": 19
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "154ad09f9f83a7e39b1a0e2c5181e54be014a2ccfa96440a155fc147aa9768fe",
+        "text": "For the first time, this reprint is accompanied \nby the free Orient BlackSwan Smart App, which \nallows students to access question banks from \nprevious years’ competitive examinations and \nsolve nearly 100 multiple-choice questions from \ntheir phone.\nContents: 1. The Decline of the Mughal Empire  \n2. Indian States and Society in the Eighteenth \nCentury 3. European Penetration and the British \nConquest of India 4. The Structure of Government \nand the Economic Policies of the British \nEmpire in India, 1757–1857 5. Administrative \nOrganisation and Social and Cultural Policy \n6. Social and Cultural Awakening in the First \nHalf of the Nineteenth Century 7. The Revolt \nof 1857 8. Administrative Changes after 1858 \n9. The Economic Impact of British Rule 10. The \nNationalist Movement: 1858–1905 11. Religious \nand Social Reform after 1858 12. The Nationalist \nMovement: 1905–18 13. The Struggle for Swaraj: \n1919–27 14. The Struggle for Swaraj: 1927–47 \nAlso in Hindi, Bangla and Odia",
+        "metadata": {
+          "chunk_id": "154ad09f9f83a7e39b1a0e2c5181e54be014a2ccfa96440a155fc147aa9768fe",
+          "pdf_page": 19,
+          "pdf_label": "16",
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf",
+          "printed_page": "16",
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "8b1314bbd7c4acaa94105da2af85ed442ec5df7e8404af782c927bb889400c6e",
+        "text": "and the Work of the Dream-ego 11. Precarious \nCitizens, Cyber-nationalism: South-South Asia’s \nNew and Old Diasporas \nContributors: D. Ahmed, Rajeev Bhargava, \nPartha Chatterjee, Arif Dirlik, Avner Falk, Stephen \nA. Marglin, Frederique Apffel-Marglin, Gananath \nObeyesekere, Darini Rajasingham-Senanayake\n2020 978-93-9012-256-1 `1465 416 pp Hardback\nOrient BlackSwan   \n Textbook  \nAtlas for Competitive \nExams, The\nSecond Edition, with Orient BlackSwan \nSmart App\nThe Orient BlackSwan \nAtlas for Competitive \nExams brings the world \ncloser through its \ncompletely updated \nmaps and graphical \nrepresentations in the \nform of pie-charts and \nhistograms. These \nauthoritative maps \ncover physical and \npolitical themes \nrelevant to India and the continents of the world. \nThis Atlas has been specially designed for students \npreparing for competitive examinations conducted \nby the Union Public Service Commission (UPSC) \nand other examining bodies, with a dual index of",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "chunk_id": "8b1314bbd7c4acaa94105da2af85ed442ec5df7e8404af782c927bb889400c6e",
+          "printed_page": "17",
+          "pdf_label": "17",
+          "extractor": "pypdf",
+          "section": "History",
+          "pdf_page": 20,
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.6382189352254732,
+        "lexical": 0
+      },
+      {
+        "id": "dbd22886bef43cab13c9e7969de0dfd839fba1d62cce9a0663e2347a4b1215cb",
+        "text": "Visit our website www.orientblackswan.com \nKeep in touch  \n   Facebook at www.facebook.com/OrientBlackSwan\n54 HISTORY        \nWrite to mail@orientblackswan.com to receive our monthly mailer Follow us on   @orientblackswan\nInventing Global Ecology\nTracking the Biodiversity Ideal in India, \n1945–1947 \nseries: new perspectives in south asian history\nMichael Lewis, Assistant Professor, Department of \nHistory, Salisbury University, Maryland, USA\n2003 978-81-2502-377-7 `2220 384 pp Hardback  \nRights: Restricted\nBetween History and Legend \nStatus and Power in Bundelkhand\nRavindra K. Jain, anthropologist and senior \nprofessor, Centre for the Study of Social Systems, \nJawaharlal Nehru University, New Delhi\n2002 978-81-2502-194-0 `550 166 pp Hardback\nWestern Medicine and Public \nHealth in Colonial Bombay \n1845–1895\nseries: new perspectives in south asian history \nMridula Ramanna, Department of History, SIES \nCollege, Mumbai University\n [The] book is well written and enormously detailed.",
+        "metadata": {
+          "pdf_page": 57,
+          "pdf_label": "54",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "extractor": "pypdf",
+          "section": "History",
+          "source": "History_2024-25.pdf",
+          "printed_page": "54",
+          "chunk_id": "dbd22886bef43cab13c9e7969de0dfd839fba1d62cce9a0663e2347a4b1215cb"
+        },
+        "score": 0.6294776966958343,
+        "lexical": 0
+      },
+      {
+        "id": "d57cb1ce38cf87d3449c7e76b4bec996aec31f6b07f02d05fee5a1157ea3e97e",
+        "text": "Visit our website www.orientblackswan.com \nKeep in touch  \n   Facebook at www.facebook.com/OrientBlackSwan\n68 HISTORY \nWrite to mail@orientblackswan.com to receive our monthly mailer Follow us on   @orientblackswan\nmeaning of tradition, culture, colonialism, and \nmodernity. \n2013 978-81-7824-375-7 `695 320 pp Paperback \nRights: Restricted \n2007 978-81-7824-207-1 `650 320 pp Hardback \nRights: Restricted \nDharmanand           \n e-book\nKosambi \nThe Essential Writings\nEdited and translated by Meera Kosambi, former \nProfessor and Director, Research Centre for \nWomen’s Studies, SNDT Women’s University, \nMumbai \nThe life and writings of \nDharmanand Kosambi \n(1876–1947), pioneering \nscholar of Pali and Buddhist \nStudies, comprise the \nsubstance of this book. By \ntranslating and marshalling \nhis most significant writings, \nMeera Kosambi shows the \nmanifold dimensions of \nDharmanand’s personality, \nand the profoundly moral character of his \nintellectual journeys. Her Introduction also",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "pdf_label": "68",
+          "printed_page": "68",
+          "extractor": "pypdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "d57cb1ce38cf87d3449c7e76b4bec996aec31f6b07f02d05fee5a1157ea3e97e",
+          "pdf_page": 71,
+          "section": "History"
+        },
+        "score": 0.6319820460193931,
+        "lexical": 0
+      },
+      {
+        "id": "8b73d5e4848d3e36583b4f8878a3c0f0eb0706e21ba2bead0cce2b0fb5f1acd1",
+        "text": "Visit our website www.orientblackswan.com \nKeep in touch  \n   Facebook at www.facebook.com/OrientBlackSwan Write to mail@orientblackswan.com to receive our monthly mailer Follow us on   @orientblackswan\nAgha, Sameetah   16\nAgnani, Sunil M.   63\nAhuja, Ravi   39, 48\nAkhtar, Nazia   9\nAlam, Muzaffar   57, 67, 74\nAlavi, Seema   75\nAllen, Richard   9\nAmin, Shahid   32\nAnandhi, S.   18\nAquil, Raziuddin   72\nArita, Isao   43\nArnold, David   77\nArondekar, Anjali   7\nAssayag, Jackie   76\nAttewell, Guy   39, 51\nAzad, Maulana Abul Kalam   47\nAzhar, Ahmad   22\nBakhle, Janaki   74\nBalakrishnan, N.   6\nBandyopadhyay, Aparna   29\nBandyopadhyay, Sekhar   29, 33, 37, 55\nBanerjee, Debdas   54\nBanerjee-Dube, Ishita   79\nBanerjee, Madhulika   39, 48\nBanerjee, Paula   25\nBanerjee, Prathama   13\nBanerjee, Samir   48\nBanerjee, Sumanta   49\nBaskaran, Theodore   47\nBasu, Helene   50\nBasu, Sudeep   24\nBasu, Swaraj   31\nBayly, C. A.   38\nBenei, Véronique   76\nBenichou, Lucien D.   54\nBhargava, Meena   23, 26",
+        "metadata": {
+          "section": "",
+          "pdf_page": 83,
+          "pdf_label": "80",
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "extractor": "pypdf",
+          "chunk_id": "8b73d5e4848d3e36583b4f8878a3c0f0eb0706e21ba2bead0cce2b0fb5f1acd1",
+          "printed_page": ""
+        },
+        "score": 0.6315736533315505,
+        "lexical": 0
+      },
+      {
+        "id": "e6b55a99dca8f2a538e17278fb66beb250c67433bb8a6728a10d9fa312f9b58c",
+        "text": "Visit our website www.orientblackswan.com \nKeep in touch  \n   Facebook at www.facebook.com/OrientBlackSwan Write to mail@orientblackswan.com to receive our monthly mailer Follow us on   @orientblackswan\n82 AUTHOR INDEX        \nSharma, R. S.   34\nSharma, Suresh   44\nSharma, Swapna   20\nSherin, B. S.   14\nShobhi, Prithvi Datta Chandra   69\nShukla, Narendra   6\nShulman, David   56\nSilva, Kalinga Tudor   40\nSimpson, Edward   44\nSingh, Chetan   59\nSingh, Lata   28\nSingh, Upinder   77, 79\nSinha, Nitin   22–23\nSinha, Shakti   6\nSitharaman, Sudha   18\nSivaramakrishnan, K.   68\nSkaria, Ajay   62, 77\nSlate, Nico   21, 68\nSoneji, Davesh   67\nSpear, Margaret   44\nSpear, Percival   44\nSpodek, Howard   36\nSreedharan, E.   53\nSreenivasan, Ramya   75\nSrimanjari   45\nSrinivasan, Vasanthi   73\nStark, Ulrike   73\nStietencron, Heinrich von   75\nSubrahmanyam, Sanjay   56, 60, 65\nSubramaniam, Banu   21\nSubramanian, Lakshmi   44, 50, 79\nSubramanyam, Sanjay   67\nSudan, Rajani   29\nSugimoto, Masanobu   43",
+        "metadata": {
+          "pdf_page": 85,
+          "extractor": "pypdf",
+          "section": "Author Index",
+          "chunk_id": "e6b55a99dca8f2a538e17278fb66beb250c67433bb8a6728a10d9fa312f9b58c",
+          "pdf_label": "82",
+          "printed_page": "",
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.6365135788447569,
+        "lexical": 0
+      }
+    ],
+    "expected": "1948",
+    "expected_page": 2,
+    "matches": true
+  },
+  {
+    "question": "What is the price of a Physics textbook?",
+    "answer": "Not found",
+    "found": false,
+    "page": null,
+    "printed_page": "",
+    "section": "",
+    "evidence_quote": "",
+    "score": 0.6135034626461943,
+    "cached": true,
+    "debug": "",
+    "passages": [
+      {
+        "id": "4d87dd442a98b410c3e0a3c184b2560f256e75f3d49749cfef74801f2790d329",
+        "text": "2024 978-93-5442-700-8 `2465 968 pp Paperback\nHistory 2025.indd   5History 2025.indd   5 24-01-2025   17:34:2824-01-2025   17:34:28\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "section": "History",
+          "chunk_id": "4d87dd442a98b410c3e0a3c184b2560f256e75f3d49749cfef74801f2790d329",
+          "pdf_page": 8,
+          "pdf_label": "5",
+          "printed_page": "5",
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "extractor": "pypdf"
+        },
+        "score": 0.604950709790199,
+        "lexical": 0
+      },
+      {
+        "id": "6b49abe7ab5eaceef56b3ab87f8a00c2fd5c7d35ff3479f14822d0d1031b1078",
+        "text": "Heroes Today\n2011 978-81-2504-279-2 `1450 240 pp Hardback \nRights: Restricted\nAncient Indian       \n Textbook\nSocial History   \n e-book\nSome Interpretations  \n(Second Edition)\nRomila Thapar, Professor Emeritus, Jawaharlal \nNehru University\nThis is a revised edition of a \nseminal work by India’s most \neminent historian, containing \na new Introduction and four \nnew essays. \nContents: \n1. Interpretations of \nAncient \nSocial History 2. Society \nand Law in the Hindu \nand Buddhist Traditions \n3. Ethics, Religion and Social Protest in the First \nMillennium B.C. in Northern India 4. Renunciation: \nHistory 2025.indd   43History 2025.indd   43 24-01-2025   17:35:1424-01-2025   17:35:14\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "section": "History",
+          "pdf_label": "43",
+          "pdf_page": 46,
+          "extractor": "pypdf",
+          "chunk_id": "6b49abe7ab5eaceef56b3ab87f8a00c2fd5c7d35ff3479f14822d0d1031b1078",
+          "printed_page": "43",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.5980405255017851,
+        "lexical": 0
+      },
+      {
+        "id": "39fa45357cca8c0dd52027ca88e9b796c92801433b391a2be418d089309fe5e1",
+        "text": "E-ISBN 978-81-2505-239-5\nHistory 2025.indd   51History 2025.indd   51 24-01-2025   17:35:2024-01-2025   17:35:20\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_label": "51",
+          "pdf_page": 54,
+          "printed_page": "51",
+          "chunk_id": "39fa45357cca8c0dd52027ca88e9b796c92801433b391a2be418d089309fe5e1",
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf"
+        },
+        "score": 0.5988118572144246,
+        "lexical": 0
+      },
+      {
+        "id": "0232c252a3f7eb5f243275af104f4796efbf71d495cf4fa9b435b0646569ef54",
+        "text": "2004 978-81-2502-674-7 `1680 272 pp Hardback \nE-ISBN 978-81-250-5301-9\nTextbook of  \n Textbook\nHistoriography, A\n500 BC to AD 2000      \n e-book\nE. Sreedharan\n2004 978-81-2502-657-0 `775 585 pp Paperback \nE-ISBN 978-93-5287-577-1 \nAlso in Hindi\nColonial Economy in the Great \nDepression, A\nMadras (1929–1937)\nK. A. Manikumar, Professor of History, \nManomaniam Sundaranar University, Tirunelveli\n2003 978-81-2502-456-9 `595 240 pp Hardback\nDressing the Colonised Body \nPolitics, Clothing and Identity in Colonial  \nSri Lanka\nNira Wickramasinghe, former Fellow at the \nSchool of Public Affairs, University of Maryland and \nVisiting Professor at the Ecole des Hautes en Sciences \nSociales, Paris\n2003 978-81-2502-479-8 `570 157 pp Hardback\nHistory 2025.indd   53History 2025.indd   53 24-01-2025   17:35:2224-01-2025   17:35:22\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_label": "53",
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf",
+          "chunk_id": "0232c252a3f7eb5f243275af104f4796efbf71d495cf4fa9b435b0646569ef54",
+          "section": "History",
+          "pdf_page": 56,
+          "printed_page": "53",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.6025856002105593,
+        "lexical": 0
+      },
+      {
+        "id": "3a9fbf0894e2d57c00d35a9b6d72153bdfc4fa75f69649ad8cc35fccd38515e5",
+        "text": "academy’s core assumptions.\n2017 978-81-7824-511-9 `595 316 pp Paperback \n2016 978-81-7824-486-0 `895 316 pp Hardback \nRights: Restricted\nHistory 2025.indd   60History 2025.indd   60 24-01-2025   17:35:2724-01-2025   17:35:27\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_label": "60",
+          "extractor": "pypdf",
+          "printed_page": "60",
+          "source": "History_2024-25.pdf",
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "3a9fbf0894e2d57c00d35a9b6d72153bdfc4fa75f69649ad8cc35fccd38515e5",
+          "pdf_page": 63
+        },
+        "score": 0.6135034626461943,
+        "lexical": 0
+      },
+      {
+        "id": "887e5cddfaa436899c2165e9bcec2d0fdc69803e10ca513a51ead5be92438218",
+        "text": "developed a sophisticated system of government \nand facilitated an era of profound artistic and \narchitectural achievement, setting the groundwork \nfor South Asia’s future trajectory. Interdisciplinary \nand cutting-edge, this work adds rich dimensions \nto research on the Mughal state, early modern \nSouth Asia, and the comparative history of the \nMughal, Ottoman, Safavid, and other early  \nmodern empires.\n2014 978-81-7824-386-3 `895 536 pp Paperback  \nRights: Restricted \n2011 978-81-7824-309-2 `850 536 pp Hardback  \nRights: Restricted\nAtomic State\nBig Science in Twentieth-Century India\nJahnavi Phalkey, Lecturer in History of Science \nand Technology at King’s College London\n‘Big science’ in India is located via three transitions: \nof nuclear physics from table-top experiments to \nelectronic equipment systems; of India from \nimperial rule to Independence; and of international \nrelations from imperialism to the Cold War. \nPhalkey contradicts persistent nationalist notions",
+        "metadata": {
+          "printed_page": "67",
+          "source": "History_2024-25.pdf",
+          "chunk_id": "887e5cddfaa436899c2165e9bcec2d0fdc69803e10ca513a51ead5be92438218",
+          "pdf_page": 70,
+          "extractor": "pypdf",
+          "section": "History",
+          "pdf_label": "67",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.0,
+        "lexical": 1
+      },
+      {
+        "id": "b5f71b815ebe4efa7e869e2e63352531ac20bec4cbcc339fed8520af2f159aa3",
+        "text": "languages of India, except Tamil. \n2012 978-81-8735-860-2 `425 400 pp Paperback \n2010 978-81-8735-833-6 `695 400 pp Hardback  \nRights: Restricted \nWindows into a Revolution\nEthnographies of Maoism in India and \nNepal\nseries: everyday life of political struggles\nEdited by Alpa Shah, Senior Lecturer in \nAnthropology, Goldsmiths, University of London,  \nand Judith Pettigrew, Senior Lecturer, Faculty \nof Education and Health Sciences, University of \nLimerick, Ireland\nWindows into a Revolution offers glimpses into the \nspread of Maoism in India and Nepal by tracing \nHistory 2025.indd   78History 2025.indd   78 24-01-2025   17:35:4124-01-2025   17:35:41\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "printed_page": "78",
+          "extractor": "pypdf",
+          "pdf_label": "78",
+          "source": "History_2024-25.pdf",
+          "pdf_page": 81,
+          "chunk_id": "b5f71b815ebe4efa7e869e2e63352531ac20bec4cbcc339fed8520af2f159aa3",
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.5957919737268249,
+        "lexical": 0
+      },
+      {
+        "id": "ce416e9a3b41328f0ee2e321c3622e7ea02a1eac8a0335ca85ce34a1dde5e645",
+        "text": "Zeldin, Theodore   65\nZutshi, Chitralekha   70\nHistory 2025.indd   82History 2025.indd   82 24-01-2025   17:35:4224-01-2025   17:35:42\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "chunk_id": "ce416e9a3b41328f0ee2e321c3622e7ea02a1eac8a0335ca85ce34a1dde5e645",
+          "pdf_page": 85,
+          "printed_page": "",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_label": "82",
+          "section": "Author Index",
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf"
+        },
+        "score": 0.6012899846240622,
+        "lexical": 0
+      },
+      {
+        "id": "64235be7746e18482763f4c01ef5c511d46498ee4e0b650b84f1320c3b096c36",
+        "text": "History 2025.indd   88History 2025.indd   88 24-01-2025   17:35:4324-01-2025   17:35:43\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "printed_page": "",
+          "extractor": "pypdf",
+          "section": "",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 91,
+          "pdf_label": "88",
+          "chunk_id": "64235be7746e18482763f4c01ef5c511d46498ee4e0b650b84f1320c3b096c36"
+        },
+        "score": 0.6037764530718751,
+        "lexical": 0
+      }
+    ],
+    "expected": "Not found",
+    "expected_page": null,
+    "matches": true
+  },
+  {
+    "question": "Who is the current Minister of Education?",
+    "answer": "Not found",
+    "found": false,
+    "page": null,
+    "printed_page": "",
+    "section": "",
+    "evidence_quote": "",
+    "score": 0.5684980310710315,
+    "cached": false,
+    "debug": "Below calibrated retrieval threshold; no generation call",
+    "passages": [
+      {
+        "id": "b612dbdc91d1d8553af56d9d4489ab2476ab38a41b21329e9645936da2c2805a",
+        "text": "Visit our website www.orientblackswan.com \nKeep in touch  \n   Facebook at www.facebook.com/OrientBlackSwan\n4 LATEST HISTORY        \nWrite to mail@orientblackswan.com to receive our monthly mailer Follow us on   @orientblackswan\nSelected Works of C. Rajagopalachari\nVol. IX, 1949–51\nseries: selected works of c. rajagopalachari\nEdited by Ravi K. Mishra, Joint Director, Prime Ministers Museum and \nLibrary\nThe ninth volume in the Selected Works of C. Rajagopalachari series \ncovers the period when, in his roles as the first—and the last—Indian \nGovernor-General, a cabinet minister without portfolio, and finally \nas the Minister of Home Affairs, Chakravarti Rajagopalachari played a \nkey role in India’s transition to a sovereign republic. Although Rajaji’s \nmain concern was establishing relationships of trust between India \nand its immediate neighbours, herein is his advice and views on a \nrange of matters, including capital punishment in the wake of Gandhi’s",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "section": "History",
+          "pdf_page": 7,
+          "printed_page": "",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "b612dbdc91d1d8553af56d9d4489ab2476ab38a41b21329e9645936da2c2805a",
+          "pdf_label": "4",
+          "extractor": "pypdf"
+        },
+        "score": 0.0,
+        "lexical": 1
+      },
+      {
+        "id": "0d1abc7d1f71343be02bf032a2762e2d3bde72fcecd277b2902554e48837854c",
+        "text": "Murti, New Delhi. This volume covers the crucial \nperiod from April 1946 to December 1948, \ndetailing Rajaji’s important role in the governance \nof the country, first as a Cabinet Minister, then \nas a Governor, and eventually as the first Indian \nGovernor-General of India and also the last \nGovernor-General. \n2023 978-93-5442-609-4 `2575 460 pp Hardback \nVolume VII, 1940–46\nEdited by Ravi K. Mishra, Deputy Director, \nNMML; and Narendra Shukla, Head, Research \nand Publications Division, NMML\n2022 978-93-5442-252-2 `2595 452 pp Hardback\nVolume VI, 1936–39\nEdited by Ravi K. Mishra, Deputy Director, \nNMML; and Narendra Shukla, Head, Research \nand Publications Division, NMML\n2021 978-93-5442-001-6 `2785 576 pp Hardback\nVolume V, 1931–35\nEdited by Shakti Sinha, Director, NMML; \nRavi K. Mishra, Deputy Director, NMML; \nand Narendra Shukla, Head, Research and \nPublications Division, NMML\n2019 978-93-5287-472-9 `3565 728 pp Hardback\nVolume IV, 1926–30\nEdited by Mukesh Kumar, Assistant Research",
+        "metadata": {
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 9,
+          "section": "History",
+          "chunk_id": "0d1abc7d1f71343be02bf032a2762e2d3bde72fcecd277b2902554e48837854c",
+          "extractor": "pypdf",
+          "pdf_label": "6",
+          "source": "History_2024-25.pdf",
+          "printed_page": ""
+        },
+        "score": 0.0,
+        "lexical": 1
+      },
+      {
+        "id": "f2072b0947f8d4380a0680920e6548af250d29544902fd7886bb136fa09bcf05",
+        "text": "E-ISBN 978-81-2505-913-4\nVolume I, 1907–21 \n e-book\nEdited by Mahesh Rangarajan, Director, \nNMML; N. Balakrishnan, former Deputy \nDirector, NMML; and Deepa Bhatnagar, Head, \nResearch and Publications Division and NMML \nArchives\n2014 978-81-250-5017-9 `2640 472 pp Hardback \nE-ISBN 978-81-2505-912-7\nIn collaboration with the Prime Ministers Museum \nand Library (PMML)\nChakravarti Rajagopalachari (1878–1972), \npopularly known as Rajaji, was a lawyer by \nprofession. He was drawn into the non-violent \nnationalist movement steered by Mahatma \nGandhi and came to be known as the latter’s \n‘conscience-keeper’. He became the Premier \nof Madras in 1937 and was the first Indian \nGovernor-General of independent India. He \nwas also the Chief Minister of Madras, 1952–54. \nHe was awarded the highest civilian award, \nthe Bharat Ratna, in 1955. Rajaji founded the \nSwantantra Party in 1959. A prolific writer in \nTamil and English, he is best known for his books \non the Mahabharata and the Ramayana.",
+        "metadata": {
+          "pdf_label": "6",
+          "pdf_page": 9,
+          "section": "History",
+          "printed_page": "",
+          "chunk_id": "f2072b0947f8d4380a0680920e6548af250d29544902fd7886bb136fa09bcf05",
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.0,
+        "lexical": 1
+      },
+      {
+        "id": "37bb70292469849c8608bc1050004871e9891280cef388c6d98af92c9e0921c2",
+        "text": "(NRB)\nContents: Letters 1. To Emilie Schenkl 30.11.34 \n2. To Emilie Schenkl 11.34 3. To Emilie Schenkl \n30.11.34 4. To Emilie Schenkl 1.12.34 5. To Emilie \nSchenkl 1.12.34…. 54. From Emilie Schenk 13.8.36 \n55. To Emilie Schenkl 12.8.36 56. From Emilie \nSchenkl 17.8.36 57. From Emilie Schenkl 18.8.36 \n58. To Emilie Schenkl 29.8.36 59. From Emilie \nSchenkl 8.9.36….176. To Emilie Schenkl 30.11.42 \n177. To Emilie Schenkl 10.12.42 178. To Emilie \nSchenkl 12.42 179. To Emilie Schenkl 12.42 180. \nTo Emilie Schenkl 19.12.42 \n2023 978-93-5442-379-6 `395 256 pp Paperback\nThird Eye and Other Works, \nThe\nMahatma Phule’s Writings on Education\nRohini Mokashi Punekar, Professor of English, \nHumanities and Social Sciences, Indian Institute of \nTechnology Guwahati\nWith a foreword by Bhalchandra Nemade \nPhule founded schools for \nthe Shudratishudra, for \nwomen and working caste \nadults, and wrote \npassionately on the subject \nof inclusive education. \nTranslated for the first time",
+        "metadata": {
+          "chunk_id": "37bb70292469849c8608bc1050004871e9891280cef388c6d98af92c9e0921c2",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 11,
+          "source": "History_2024-25.pdf",
+          "section": "History",
+          "printed_page": "8",
+          "extractor": "pypdf",
+          "pdf_label": "8"
+        },
+        "score": 0.0,
+        "lexical": 1
+      },
+      {
+        "id": "f8b0d71046b298421e5a39c9d13d3a7b5025e560c489906b94b1df8c61ab738b",
+        "text": "Visit our website www.orientblackswan.com \n                HISTORY 31\nWrite to mail@orientblackswan.com to receive our monthly mailer Follow us on  \n  @orientblackswan\nNew           \n Now in Paperback  \nPerspectives in the  \nHistory of Indian Education\nEdited by Parimala V. Rao, Assistant Professor, \nZakir Husain Centre for Educational Studies, \nJawaharlal Nehru University\nOrient BlackSwan\nNew Perspectives\nin the\nHistory of Indian Education\nNew Perspectives in theHistory of Indian Education\nEdited by\nParimala V. Rao\nRao\nCover image: Elphinstone College, Kala Ghoda,\nFort, Mumbai. Photograph by Parimala V. Rao\nCover design: OSDATA, Hyderabad\nNew Perspectives in the History of Indian\nEducation brings together essays on the\nmilestones in the development of\nmodern education in India since the\nmid-nineteenth century. It offers\nreadings on a wide range of\ninterconnected themes and the debates\nwhich have shaped the contours of the\neducational policy of contemporary\nIndia.",
+        "metadata": {
+          "printed_page": "31",
+          "pdf_page": 34,
+          "section": "History",
+          "source": "History_2024-25.pdf",
+          "chunk_id": "f8b0d71046b298421e5a39c9d13d3a7b5025e560c489906b94b1df8c61ab738b",
+          "pdf_label": "31",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "extractor": "pypdf"
+        },
+        "score": 0.5626630815704742,
+        "lexical": 0
+      },
+      {
+        "id": "2d2653d37654dd32f21d014629a77b7a42950bb15500d7346e675ad3f192bc07",
+        "text": "Continued from front flap Related titles from Orient BlackSwan\nHIGHER EDUCATION IN INDIA\nSCHOOL EDUCATION, PLURALISM AND MARGINALITY\nTHE HISTORY OF EDUCATION IN MODERN INDIA, 1757–2012\n(FOURTH EDITION)\nTHE LIGHT OF KNOWLEDGE\nPEDAGOGY FOR RELIGION\nIn Search of Equality, Quality and Quantity\nComparative Perspectives\nLiteracy Activism and the Politics of Writing in South India\nMissionary Education and the Fashioning of Hindus and Muslims\nin Bengal\nEdited by Jandhyala B. G. Tilak\nEdited by Christine Sleeter, Shashi Bhushan Upadhyay, Arvind\nK. Mishra and Sanjay Kumar\nSuresh Chandra Ghosh\nFrancis Cody\nParna Sengupta\nOrient BlackSwan\nRao: New Perspectives in the History of Indian Education\nwww.orientblackswan.com\nISBN  978 81 250 5125 1\n9 788125 051251\nThis volume re-evaluates \nsome of the major \ninterventions in the \ndevelopment of modern \neducation in India since the \nmid-nineteenth century. \nThe empirically rich essays \nfocus on the initiatives to \npromote education among",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "pdf_label": "31",
+          "pdf_page": 34,
+          "printed_page": "31",
+          "section": "History",
+          "extractor": "pypdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "2d2653d37654dd32f21d014629a77b7a42950bb15500d7346e675ad3f192bc07"
+        },
+        "score": 0.5596522321703923,
+        "lexical": 0
+      },
+      {
+        "id": "d4d83ea912ae7c19ee6c731c386dd0a9a65fc3ff0422b2a0ad0b6873d56d080e",
+        "text": "Own: An International Perspective on the Value \nof Historically Dalit Colleges 3. Silent Voices: \nWomen’s Perspective about Self and Education \nin Late-Nineteenth-Century India 4. Contested \nDomains: Reconstructing Education and Religious \nIdentity in Sikh Schools in the Punjab Part II: \nEducation, Politics, and the Nation  \n5. Compulsory Education and the Political \nLeadership in Colonial India 1840–1947  \n6. Education, Missionaries and the Indian Nation, \nc.1880–1920 7. Re-Defining Work and Education \nas a Means to National Self-determination: A \nComparative Study of Gandhian India and Perónist \nArgentina 8. Genesis of Curzon’s University \nReforms, 1899–1905 9. Transformations of \nSchooling in Colonial Punjab, 1854–1900 \nContributors: Hayden Bellenoit, Radha Gayathri, \nSuresh Chandra Ghosh, Simone Holzwarth and \nVerónica Oelsner, Laura Dudley Jenkins, Mahima \nManchanda, Preeti, Parimala V. Rao; Eleanor \nZelliot\n2016 978-81-2506-311-7 `1320 352 pp Paperback",
+        "metadata": {
+          "printed_page": "31",
+          "chunk_id": "d4d83ea912ae7c19ee6c731c386dd0a9a65fc3ff0422b2a0ad0b6873d56d080e",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 34,
+          "extractor": "pypdf",
+          "section": "History",
+          "pdf_label": "31",
+          "source": "History_2024-25.pdf"
+        },
+        "score": 0.5586530165775659,
+        "lexical": 0
+      },
+      {
+        "id": "612c1a6da93e3ae64e590b419e4711b03b7a9a05e9d76c8fa2e2c71c085da6ea",
+        "text": "Menon, worked closely \nwith Sardar Patel as the \nsecretary of the State’s \nMinistry to convince the \nrulers of the princely states \nHistory 2025.indd   34History 2025.indd   34 24-01-2025   17:35:0324-01-2025   17:35:03\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_label": "34",
+          "section": "History",
+          "chunk_id": "612c1a6da93e3ae64e590b419e4711b03b7a9a05e9d76c8fa2e2c71c085da6ea",
+          "pdf_page": 37,
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "extractor": "pypdf",
+          "printed_page": "34",
+          "source": "History_2024-25.pdf"
+        },
+        "score": 0.5573043650849673,
+        "lexical": 0
+      },
+      {
+        "id": "53fcc561172b96a5b16fcf6907e5b54c13d780e7e3e1aa736bf5c95906ebef8e",
+        "text": "overview of the education \nsystem in India from its \ncolonial beginnings through \nIndependence till the present \nday. The fourth edition \nincludes the latest discussions \nand debates around the \nmajor changes planned for \nand already implemented in \nthe education sector. It also \nincludes the recommendations of the National \nKnowledge Commission, the Yashpal Committee \nReport, and the enactment of the Right of Children \nto Free and Compulsory Education (the RTE Act).\nContents: 1. Introduction 2. The East India \nCompany’s Role in the Development of Education \nin India 3. Towards Education in the English \nMedium 4. The Decade after 1835 5. Education in \nthe Presidencies: Bombay Madras and the North-\nWestern Provinces 6. Missionaries and Enlightened \nIndians 7. The Age of Dalhousie 1848–1856 8. \nExpansion of Education till 1882 9. The Hunter \nCommission 10. Developments in the Post-Hunter \nCommission Years 100 11. Towards a Control \nof Higher Education 12. The Age of Curzon",
+        "metadata": {
+          "section": "History",
+          "extractor": "pypdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 38,
+          "chunk_id": "53fcc561172b96a5b16fcf6907e5b54c13d780e7e3e1aa736bf5c95906ebef8e",
+          "source": "History_2024-25.pdf",
+          "printed_page": "35",
+          "pdf_label": "35"
+        },
+        "score": 0.5684980310710315,
+        "lexical": 0
+      },
+      {
+        "id": "496e2ea1b61a7cb52f6f7870977c353011f4036545abbca4c8f854dfa1cd3efe",
+        "text": "Commission 10. Developments in the Post-Hunter \nCommission Years 100 11. Towards a Control \nof Higher Education 12. The Age of Curzon \n1899–1905 13. National Education till 1912 \n14. Government of India Resolution on Indian \nEducation 15. The Calcutta University Commission \n16. Education under Dyarchy 17. Education under \nProvincial Autonomy 18. Towards a National \nPolicy on Education 19. The Critical Years 20. \nA Post-Mortem till 1999 21. Education in the \nNew Millennium 22. A Journey Towards Literacy \n23. The Winds of Change 24. A Retrospection \nSince 1999 25. A Summing Up\n2013 978-81-2505-262-3 `660 416 pp Paperback \nHistory of the     \n e-book  \nBengali People\nFrom Earliest Times to the Fall of the Sena \nDynasty\n(Second Edition)\nNiharranjan Ray was a renowned historian, \nwell known for his works on History of Art and \nBuddhism \nTranslated by John W. Hood. He has extensively \nstudied and written about Indian—especially \nBengali culture—and has translated a variety of",
+        "metadata": {
+          "extractor": "pypdf",
+          "pdf_label": "35",
+          "printed_page": "35",
+          "pdf_page": 38,
+          "section": "History",
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "496e2ea1b61a7cb52f6f7870977c353011f4036545abbca4c8f854dfa1cd3efe"
+        },
+        "score": 0.5567462729142593,
+        "lexical": 0
+      },
+      {
+        "id": "64070e044120812ac39c9d2e3d30226af232388ef51d96d2e1bf11a262be6fbd",
+        "text": "pursuit and adaptation of \nmodern vernacular \neducation, mainly imported to the colonies by \nProtestant missionaries, opened up new ways for \nIndians to reformulate ideas of community along \nreligious lines.\nContents: Introduction: Pedagogical Frames and \nColonial Difference 1. The Molding of Native \nCharacter 2. A Curriculum for Religion 3. An \nObject Lesson in Colonial Pedagogy 4. The \nHistory 2025.indd   39History 2025.indd   39 24-01-2025   17:35:1024-01-2025   17:35:10\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "printed_page": "39",
+          "section": "History",
+          "chunk_id": "64070e044120812ac39c9d2e3d30226af232388ef51d96d2e1bf11a262be6fbd",
+          "pdf_page": 42,
+          "pdf_label": "39",
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.5563105937853575,
+        "lexical": 0
+      },
+      {
+        "id": "64235be7746e18482763f4c01ef5c511d46498ee4e0b650b84f1320c3b096c36",
+        "text": "History 2025.indd   88History 2025.indd   88 24-01-2025   17:35:4324-01-2025   17:35:43\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_page": 91,
+          "extractor": "pypdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "section": "",
+          "source": "History_2024-25.pdf",
+          "printed_page": "",
+          "pdf_label": "88",
+          "chunk_id": "64235be7746e18482763f4c01ef5c511d46498ee4e0b650b84f1320c3b096c36"
+        },
+        "score": 0.5557263422355725,
+        "lexical": 0
+      }
+    ],
+    "expected": "Not found",
+    "expected_page": null,
+    "matches": true
+  },
+  {
+    "question": "Which is the \"best\" history book for a beginner?",
+    "answer": "Not found",
+    "found": false,
+    "page": null,
+    "printed_page": "",
+    "section": "",
+    "evidence_quote": "",
+    "score": 0.6091528973330796,
+    "cached": true,
+    "debug": "",
+    "passages": [
+      {
+        "id": "3e5bb666d99c82b9ac0524cb7fd39e21aa9cf68152e1d4952968e4740cbe0e76",
+        "text": "Orient BlackSwan is one of India’s best known and most respected publishing \nhouses. Incorporated in 1948, the consistent emphasis of our publishing \nprogramme has been on quality. We also selectively reprint and co-publish \noutstanding titles published abroad, for the Indian market. \nOrient BlackSwan is the exclusive distributor for books published by:\nSangam Books\nUniversities Press\nPermanent Black\nSocial Science Press\nAurum Books \n(An imprint of Social Science Press)\nTata Institute of Social Sciences\nEconomic and Political Weekly\nRCS Publishers\nperm\nanent black\nHistory 2025.indd   1History 2025.indd   1 24-01-2025   17:34:2524-01-2025   17:34:25\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "chunk_id": "3e5bb666d99c82b9ac0524cb7fd39e21aa9cf68152e1d4952968e4740cbe0e76",
+          "pdf_label": "ii",
+          "printed_page": "",
+          "section": "",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 2,
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "9c0936d6b48e70dcc64aacf871c93b82ff4f345914677412728caa311501ac22",
+        "text": "Swantantra Party in 1959. A prolific writer in \nTamil and English, he is best known for his books \non the Mahabharata and the Ramayana. \nHistory 2025.indd   6History 2025.indd   6 24-01-2025   17:34:2924-01-2025   17:34:29\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_label": "6",
+          "extractor": "pypdf",
+          "printed_page": "",
+          "section": "History",
+          "chunk_id": "9c0936d6b48e70dcc64aacf871c93b82ff4f345914677412728caa311501ac22",
+          "pdf_page": 9,
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "16e85b79c026aecdcef2f47f9444ec65629f63e870a08f582e2cc394aafc749c",
+        "text": "for producing and contesting our attachments to \nhistory-writing. Three concepts are at stake here: \narchives, exemplarity and geopolitics.\nContents: Introduction: Make. Believe. \nSexuality’s Subjects; 1. In the Absence of \nReliable Ghosts: Archives 2. A History I Am Not \nWriting: Sexuality’s Exemplarity 3. Itinerant Sex: \nGeopolitics as Critique; coda:  I Am Not Your \nData. Caste, Sexuality, Protest\n2023 978-93-5442-454-0 `945 176 pp Paperback \nRights: Restricted \nAlternative Leadership, The \nSpeeches, Articles, Statements and Letters, \nJune 1939– January 1941\nseries: netaji collected works \nEdited by Sisir K. Bose (1920–2000), founder \nof the Netaji Research Bureau in 1957 and its \nguiding spirit until his death, participant in the \nIndian freedom struggle, imprisoned by the British \nin the Lahore Fort, Red Fort and Lyallpur Jail, in \nthe post-independence period, played a key role in \npreserving the best traditions of the anti-colonial",
+        "metadata": {
+          "pdf_label": "7",
+          "chunk_id": "16e85b79c026aecdcef2f47f9444ec65629f63e870a08f582e2cc394aafc749c",
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "section": "History",
+          "pdf_page": 10,
+          "printed_page": "7",
+          "extractor": "pypdf"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "2e4df98126cb866ad2271f2f2dfc3095aa0c0833df7fadaf89dd273c6f44f359",
+        "text": "the post-independence period, played a key role in \npreserving the best traditions of the anti-colonial \nmovement and making possible the writing of its \nhistory, authored and edited biographies, memoirs, \nmonographs and research papers on Netaji’s \nlife and times, one of India’s best pediatricians, \nwas Director and later President of the Institute \nof Child Health, Calcutta; and Sugata Bose, \nGardiner Professor of History, Harvard University, \nauthor of several books on the economic, social \nand political history of modern South Asia \nincluding His \nMajesty’s Opponent: Subhas Chandra \nBose and India’s Struggle against Empire (The \nBelknap Press of Harvard University Press, 10th \nanniversary edition, 2022)\nBetween his resignation as Congress President in \nCalcutta on 29 April 1939 and his escape from his \nElgin Road home on the night of 16–17 January \n1941, Subhas Chandra \nBose provided India with \nan alternative leadership in \nplace of the old guard \nrepresented by the",
+        "metadata": {
+          "extractor": "pypdf",
+          "pdf_label": "7",
+          "source": "History_2024-25.pdf",
+          "pdf_page": 10,
+          "printed_page": "7",
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "2e4df98126cb866ad2271f2f2dfc3095aa0c0833df7fadaf89dd273c6f44f359"
+        },
+        "score": 0.0,
+        "lexical": 2
+      },
+      {
+        "id": "8a56a09829a6bba472dad05ed28235fff5aca026a25f4fb9c7918d4b6d720be9",
+        "text": "trade and commerce, religion, and the arts to \nreconstruct the unique history of Telangana from \nancient times up to the early eighteenth century. \nThis book will be valuable for graduate and \nundergraduate students of history, aspirants of \npublic service examinations, and interested \nreaders.\nContents: 1. Early Social Formations 2. State \nFormation and Dynasties 3. Political System \nand Governance 4. Land and Agrarian System \n5. Agricultural Development and Tank Irrigation \n6. Growth of Crafts, Trade and Commerce \n7. Growth and Decline of Urbanization 8. Rise and \nFall of Buddhism and Jainism 9. Popular Beliefs, \nCults and Religious Practices 10. Spread of Islam \nand its Various Sects 11. Development of Language \nand Literature 12. Caste and Caste System 13. Art \nand Architecture\n2021 978-93-5442-111-2 `395 344 pp Paperback\nElementary Aspects of the \nPolitical\nHistories from the Global South\nPrathama Banerjee, Professor, Centre for the \nStudy of Developing Societies, Delhi.",
+        "metadata": {
+          "section": "History",
+          "pdf_page": 16,
+          "printed_page": "13",
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf",
+          "pdf_label": "13",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "chunk_id": "8a56a09829a6bba472dad05ed28235fff5aca026a25f4fb9c7918d4b6d720be9"
+        },
+        "score": 0.6059734042610828,
+        "lexical": 0
+      },
+      {
+        "id": "54c3dea94f82de23e6643e4f2f94e366a97fa45a391af25c63f5d9f3e24121f0",
+        "text": "helping humankind move \nfrom the Agrarian to the \nIndustrial era. In Ten \nIdeologies, eminent scholar \nand politician S. Jaipal \nReddy presents an \noverview of world history \nand studies the four great \nmovements that laid the \nfoundation of the Industrial Revolution. \nInformative and incisive, this reader provides a \nrare and compact coverage of ideologies, and a \nstudy of the great asymmetry between pre-\nindustrial passions and post-industrial weapons.\nContents: I. Four Great Movements II. Ten \nIdeologies\n2019 978-93-5287-551-1 `1050 304 pp Paperback\nUnderstanding     \n Textbook  \nMughal India\nSixteenth to Eighteenth Centuries\nMeena Bhargava, Associate Professor, \nDepartment of History, Indraprastha College for \nWomen, University of Delhi\nThis book is an attempt \nto understand the \nidioms and institutions, \nethnic, racial, religious, \nand linguistic groups, and \nthe regions that \nconstituted the empire. \nFocusing on varied \ninterpretations, \ncomplexities, and \nperspectives on the",
+        "metadata": {
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 26,
+          "extractor": "pypdf",
+          "source": "History_2024-25.pdf",
+          "chunk_id": "54c3dea94f82de23e6643e4f2f94e366a97fa45a391af25c63f5d9f3e24121f0",
+          "printed_page": "23",
+          "pdf_label": "23"
+        },
+        "score": 0.6035153443878184,
+        "lexical": 0
+      },
+      {
+        "id": "badd97884bc6ab011c9338b803e2d8578dd17bb2148db89c7accd1e1d651ab45",
+        "text": "the site of a new contest of \nalternative hegemonies. \n2009 978-81-2503-601-2 `1950 384 pp Hardback\nHistory of Jaipur,    \n e-book   \nA\nc. 1503–1938 \nJadunath Sarkar, eminent historian\nThe book meticulously \ndocuments the history of \nthe Kachhwa rulers of \nJaipur. Sarkar ploughed \nthrough a profusion of raw \nmaterial preserved almost \nintact for three and a half \ncenturies in the Kachhwa \nHouse to present a \ncompelling history of the \nJaipur dynasty.\n2009 978-81-2503-691-3 `1250 428 pp Paperback \nE-ISBN 978-81-250-4771-1\nHistory of the     \n e-book  \nSocial Determinants  \nof Health\nGlobal Histories, Contemporary Debates \nseries: new perspectives in south asian history\nEdited by Harold J. Cook, Director, \nWellcome Trust Centre for the History of \nMedicine, University College London; Sanjoy \nBhattacharya, Reader, York University, \nToronto, Canada; Anne Hardy, Deputy Director, \nWellcome Trust Centre for the History of \nMedicine, University College London\nSelected Contents:",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "pdf_label": "46",
+          "printed_page": "46",
+          "extractor": "pypdf",
+          "section": "History",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "pdf_page": 49,
+          "chunk_id": "badd97884bc6ab011c9338b803e2d8578dd17bb2148db89c7accd1e1d651ab45"
+        },
+        "score": 0.6034940043640792,
+        "lexical": 0
+      },
+      {
+        "id": "3ed9e5a62de781119156411c5e3cabe0c3c302529a4070b651f3fe933ca01840",
+        "text": "Bourdelais, Harold J. Cook, Paul Greenough, Anne \nHardy, Wendy Hollway, Tony Jefferson, Stephen \nKunitz, Roderick Lawrence, Socrates Litsios, Abla \nMehio-Sibai, Randall Packard, Imrama Qadeer, \nKasturi Sen, Jan Sundin, Simon Szreter, Tilli \nTansey, Sam Willner\n2009 978-81-2503-508-4 `2425 380 pp Hardback \nE-ISBN 978-81-2505-428-3\nHistory of the  \n Textbook\nWorld      \n e-book\nFrom the Late Nineteenth to the Early \nTwenty-First Century \nArjun Dev, Coordinator, Towards Freedom \nProject, Indian Council for Historical Research; \nand Indira Arjun Dev\nThe book presents a \ncomprehensive overview of \nworld history from the last \ndecade of the nineteenth \ncentury to present times. \nUsing the two world wars \nas the principal focal points \nbut without in any way \nbeing Euro- or West-\ncentric, the book \nchronicles the major \nwatershed events that have shaped and defined \ntoday’s world. \nContents: Introduction 1. The World from 1880s \nto the First World War 2. The World between",
+        "metadata": {
+          "source": "History_2024-25.pdf",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "extractor": "pypdf",
+          "chunk_id": "3ed9e5a62de781119156411c5e3cabe0c3c302529a4070b651f3fe933ca01840",
+          "pdf_label": "47",
+          "section": "History",
+          "printed_page": "47",
+          "pdf_page": 50
+        },
+        "score": 0.6044950911393338,
+        "lexical": 0
+      },
+      {
+        "id": "669cf9168da47c6282e32d49543908136b0827b616c4a91f39a10877d94faab1",
+        "text": "analyses colonial medicine through a nuanced reading \nof the medieval services in Sri Lanka. \n  \n—Daily News\n2004 978-81-2502-759-1 `1920 326 pp Hardback  \nRights: Restricted E-ISBN 978-81-250-5243-2\nHistory of Fine Arts in    \n e-book  \nIndia and the West, A\nEdith Tomory, former Head of the Department of \nFine Arts, Stella Maris College, Chennai\n2004 978-81-2500-702-9 `1125 552 pp Paperback \nE-ISBN 978-81-2505-891-5\nScience and National      \n e-book\nConsciousness in Bengal\n1870–1930 \nseries: new perspectives in south asian history\nJohn Bosco Lourdusamy, Assistant Professor, \nDepartment of Humanities and Social Sciences, Indian \nInstitute of Technology, Chennai\n This well-researched book makes one recognise \nthe untiring efforts put in … to improve the lives of \npeople by encouraging scientific understanding. \n—The Sunday Express\n2004 978-81-2502-674-7 `1680 272 pp Hardback \nE-ISBN 978-81-250-5301-9\nTextbook of  \n Textbook\nHistoriography, A\n500 BC to AD 2000      \n e-book",
+        "metadata": {
+          "pdf_page": 56,
+          "pdf_label": "53",
+          "chunk_id": "669cf9168da47c6282e32d49543908136b0827b616c4a91f39a10877d94faab1",
+          "source": "History_2024-25.pdf",
+          "printed_page": "53",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "section": "History",
+          "extractor": "pypdf"
+        },
+        "score": 0.6051846162658775,
+        "lexical": 0
+      },
+      {
+        "id": "26c06d1ee91ce7557b245aef631c33907b7bce20208300c4d88666659c87e99c",
+        "text": "history, or a narrative \nhistory. Its purpose was to \nHistory 2025.indd   54History 2025.indd   54 24-01-2025   17:35:2224-01-2025   17:35:22\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "extractor": "pypdf",
+          "section": "History",
+          "pdf_page": 57,
+          "chunk_id": "26c06d1ee91ce7557b245aef631c33907b7bce20208300c4d88666659c87e99c",
+          "printed_page": "54",
+          "source": "History_2024-25.pdf",
+          "pdf_label": "54"
+        },
+        "score": 0.6079207609387187,
+        "lexical": 0
+      },
+      {
+        "id": "6b6370431fd1c6174c3d761db2ba5ca5334730cdef2a3b67e3457dabf1708311",
+        "text": "field, which were very different from what we know \ntoday. The changing discourses of the discipline and \nreputations of scholars like Sarkar, he argues, must \nbe viewed in their context. Insightful and with \nfar-reaching implications for all historians, The Calling \nof History offers a valuable look at the double life of \nHistory 2025.indd   58History 2025.indd   58 24-01-2025   17:35:2524-01-2025   17:35:25\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_label": "58",
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "section": "History",
+          "printed_page": "58",
+          "chunk_id": "6b6370431fd1c6174c3d761db2ba5ca5334730cdef2a3b67e3457dabf1708311",
+          "pdf_page": 61,
+          "source": "History_2024-25.pdf",
+          "extractor": "pypdf"
+        },
+        "score": 0.6043176983705748,
+        "lexical": 0
+      },
+      {
+        "id": "0f72be98595a9429d16356dd6eeae83c3f492dc4a1975222838339ce7031ff30",
+        "text": "Marshalling the Past offers \nreadings of ancient India and \nits modern histories that \nwill confirm Nayanjot \nLahiri’s reputation as one of \nthe most readable historians of her generation.\n2018 978-81-7824-453-2 `795 462 pp Paperback  \n2012 978-81-7824-348-1 `895 462 pp Hardback\nHistory 2025.indd   59History 2025.indd   59 24-01-2025   17:35:2624-01-2025   17:35:26\nPrices updated on 20-01-2025. These prices are subject to change without notice.",
+        "metadata": {
+          "pdf_page": 62,
+          "document_hash": "1af230e1c768809f18db59434edb783b2d5d1d9ef06d4129b05d9640b4cf0465",
+          "section": "History",
+          "pdf_label": "59",
+          "printed_page": "59",
+          "extractor": "pypdf",
+          "chunk_id": "0f72be98595a9429d16356dd6eeae83c3f492dc4a1975222838339ce7031ff30",
+          "source": "History_2024-25.pdf"
+        },
+        "score": 0.6091528973330796,
+        "lexical": 0
+      }
+    ],
+    "expected": "Not found",
+    "expected_page": null,
+    "matches": true
+  }
+]

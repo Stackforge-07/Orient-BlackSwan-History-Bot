@@ -152,3 +152,8 @@ not changed. Generation calls have a bounded request timeout and cached response
 The app was opened in a real browser and a Not found card was verified. The price
 update and incorporation answers also passed live CLI checks. Responsive screenshot
 automation and the complete final-push evaluation remain separate unfinished checks.
+
+Local screenshot smoke check: all five assignment answers matched PDF ground truth.
+A repeat with `python scripts/run_questions.py --max-calls 0` passed 5/5 with
+zero generation calls and four cache hits (the current-minister question bypasses
+generation at the retrieval gate). Real browser capture: `docs/screenshots/local-app.png`.
