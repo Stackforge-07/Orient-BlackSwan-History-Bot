@@ -69,8 +69,11 @@ class Pipeline:
   self.log=RequestLog(ROOT/'logs/generate.log',self.config.api_key)
   client=genai.Client(api_key=self.config.api_key,http_options=types.HttpOptions(timeout=45000,retry_options=types.HttpRetryOptions(attempts=1)))
   self.client=client
-  self.llm=ChatGoogleGenerativeAI(model=self.config.model,api_key=self.config.api_key,temperature=0,
-       max_retries=0,client=client,vertexai=False).with_structured_output(Candidate,method='json_schema',include_raw=True)
+  chat=ChatGoogleGenerativeAI(model=self.config.model,api_key=self.config.api_key,temperature=0,
+       max_retries=1,timeout=45000,client_args={'timeout':45.0},vertexai=False)
+  # The installed wrapper initializes its own client; bind the bounded client afterwards.
+  chat.client=client
+  self.llm=chat.with_structured_output(Candidate,method='json_schema',include_raw=True)
  def payload(self,result):
   context=json.dumps([{'page':c['metadata']['pdf_page'],'section':c['metadata'].get('section') or None,'text':c['text']} for c in result['passages']],ensure_ascii=False)
   prompt='Question: '+result['question']+'\nCatalogue passages:\n'+context

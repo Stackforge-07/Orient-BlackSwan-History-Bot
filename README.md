@@ -1,6 +1,6 @@
 # Orient BlackSwan History Bot
 
-**Blocked at live QA: Gemini returned HTTP 404 for the configured generation model. Phase 1 remains complete (750/750 chunks).**
+**Local interface: http://127.0.0.1:8501. Phase 1 remains complete (750/750 chunks).**
 This repository currently contains the original engine toolkit and the start of
 the Python project. It is not ready for submission. No final QA answers are claimed; live embedding results are documented below.
 
@@ -133,3 +133,22 @@ Current final-push progress and exact live failure: [status](docs/FINAL_PUSH_STA
 Ground truth is complete: [PDF evidence](docs/GROUND_TRUTH.md). Retrieval-only
 calibration is complete: [scores](docs/RETRIEVAL_CALIBRATION.md). Offline tests
 pass (20 tests), but live QA accuracy, UI and screenshots are not yet verified.
+
+## Local interface
+
+```bash
+source .venv/bin/activate
+streamlit run app.py
+```
+
+Open http://127.0.0.1:8501. Click an example question or use the five-question
+button to prepare your own screenshots. The sidebar can be collapsed. The app
+shows verified page references, evidence quotes, and session history. Unsupported
+questions display exactly `Not found` as their answer.
+
+The generation endpoint rejected the former model; `gemini-3.8-flash` was checked
+against the live model list and selected locally. Existing Gemini embeddings were
+not changed. Generation calls have a bounded request timeout and cached responses.
+The app was opened in a real browser and a Not found card was verified. The price
+update and incorporation answers also passed live CLI checks. Responsive screenshot
+automation and the complete final-push evaluation remain separate unfinished checks.
