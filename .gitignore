@@ -13,3 +13,5 @@ chroma_db/
 tmp/
 logs/
 .DS_Store
+cache/
+.playwright/

@@ -1,6 +1,6 @@
 # Orient BlackSwan History Bot
 
-**Phase 1 complete: 750/750 chunks and 90/90 text pages verified.**
+**Blocked at live QA: Gemini returned HTTP 404 for the configured generation model. Phase 1 remains complete (750/750 chunks).**
 This repository currently contains the original engine toolkit and the start of
 the Python project. It is not ready for submission. No final QA answers are claimed; live embedding results are documented below.
 
@@ -128,3 +128,8 @@ data. No Git repository or Git history exists yet.
 Full pacing results and limitations: [Phase 1 report](docs/PHASE_1_PACED_REPORT.md).
 The probe and remaining run together embedded 654 new chunks in 83 requests,
 with zero 429s/retries, 152,333.5 estimated tokens and 738.750 measured seconds.
+
+Current final-push progress and exact live failure: [status](docs/FINAL_PUSH_STATUS.md).
+Ground truth is complete: [PDF evidence](docs/GROUND_TRUTH.md). Retrieval-only
+calibration is complete: [scores](docs/RETRIEVAL_CALIBRATION.md). Offline tests
+pass (20 tests), but live QA accuracy, UI and screenshots are not yet verified.
